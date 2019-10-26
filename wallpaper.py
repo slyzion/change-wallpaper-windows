@@ -1,8 +1,9 @@
 ##############################
 #
-#  Made by:  Pc1h6a9h6
-#  Name:     ChangeWallpaper
-#  Version:  2-beta
+#  Made by:    Pc1h6a9h6
+#  Copyright:  (c)Pc1h6a9h6
+#  Name:       ChangeWallpaper
+#  Version:    2-beta
 #
 ##############################
 
