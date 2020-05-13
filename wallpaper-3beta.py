@@ -1,8 +1,8 @@
 ﻿#############################
 #
-#  Made by:  Pc1h6a9h6
+#  Made by:  Slyzion
 #  Name:     ChangeWallpaper
-#  Version:  3-beta
+#  Version:  3
 #
 #############################
 
@@ -16,7 +16,7 @@ class Wallpaper:
         self.root.geometry('400x160')
         self.root.wm_title("Wallpaper")
 
-        label = Label(self.root, text="Escolha a imagem de fundo:", fg="Black", font="Arial 10 bold")
+        label = Label(self.root, text="Choose the wallpaper:", fg="Black", font="Arial 10 bold")
         label.place(x=8, y=10)
 
         self.entry = Entry(self.root, fg="blue")
@@ -45,7 +45,7 @@ class Wallpaper:
             openF = Tk()
             openF.geometry("250x150")
             openF.wm_title("Error!")
-            Label(openF, text="Por favor insira uma imagem!", fg="Black", font="Arial 10 bold").place(x=25, y=50)
+            Label(openF, text="Please insert an image!", fg="Black", font="Arial 10 bold").place(x=25, y=50)
         
         # Erase existing wallpaper
         try:
