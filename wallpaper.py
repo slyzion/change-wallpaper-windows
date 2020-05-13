@@ -3,7 +3,6 @@
 #  Made by:    Slyzion
 #  Copyright:  ©Slyzion
 #  Name:       ChangeWallpaper
-#  Version:    2-beta
 #
 ##############################
 
