@@ -1,7 +1,7 @@
 ##############################
 #
-#  Made by:    Pc1h6a9h6
-#  Copyright:  (c)Pc1h6a9h6
+#  Made by:    Slyzion
+#  Copyright:  ©Slyzion
 #  Name:       ChangeWallpaper
 #  Version:    2-beta
 #
